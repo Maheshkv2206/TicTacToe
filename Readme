@@ -1,0 +1,62 @@
+Tic-Tac-Toe:- A Classic Game Overview
+Tic-Tac-Toe is a simple and widely popular game that is often played for fun and mental exercise. 
+
+1.Game Description
+  * Players: Two players compete against each other.
+  * Objective: The goal is to be the first to align three of your symbols (either X or O) in a row, column, or diagonal on a 3x3 grid.
+  * Outcome:
+    *  Win: A player wins if they manage to place three of their symbols in a row, column, or diagonal.
+    *  Draw: The game ends in a tie if all nine cells are filled and neither player has three symbols aligned.
+
+2.How to Play
+  * The game board consists of a 3x3 grid, initially empty.
+  * Players take turns marking one empty cell on the grid with their symbol (X or O).
+  *  The first player to align three of their symbols in any direction (horizontal, vertical, or diagonal) wins.
+  *  If no alignment is achieved and all cells are filled, the game ends in a draw.
+
+3.Features
+  *  Simplicity: Easy to set up and play, requiring only paper and pen or a digital equivalent.
+  *  Strategic Depth: Despite its simplicity, the game involves strategic thinking and planning, especially when competing with experienced players.
+  *  Universal Appeal: Played across cultures and age groups due to its straightforward rules.
+
+4.Game Variants
+  * 4x4 or Larger Grids: Expanding the grid increases the complexity of the game.
+  * 3D Tic-Tac-Toe: Played on multiple stacked grids, adding another dimension to the strategy.
+  * Timed Versions: Players must make their moves within a set time.
+
+5.Applications
+  * Entertainment: A quick and enjoyable way to pass the time.
+  * Education: Helps develop logical thinking, pattern recognition, and strategic planning.
+  * Programming Exercises: Commonly used as a beginner project in software development to teach algorithms, game logic, and AI.
+
+6.Technologies Used:-
+  1.Core Java:
+    * Utilizes basic Java programming concepts, including classes, methods, loops, and conditionals.
+    * Handles user input using the Scanner class.
+  2.OOP Concepts:
+    * Encapsulation: The game logic and data are structured in classes and methods.
+    * Polymorphism: Could be applied if extending functionality for different game modes.
+  3.2D Arrays:
+    *  The game board is typically represented as a 2D array for easy manipulation and checking of win conditions.
+  4.Java Swing/JavaFX (Optional):
+    *  For graphical versions of Tic-Tac-Toe, Java Swing or JavaFX is used to create an interactive GUI.
+
+How to Run in the Repository:-
+1. Clone the Repository
+    *  Download or clone the project repository to your local machine:
+      git clone <repository-url>
+      cd <project-directory>
+2. Import the Project into Your IDE
+  *  Open your IDE (Eclipse, IntelliJ IDEA, or others).
+  *  Import the project as a Java application.
+3. Build and Compile the Project
+  *  Ensure the project is correctly compiled. If using an IDE, the build process is usually automated.
+4. Run the Application
+  *  Locate the Main class. Typically, this class contains the main method to start the game.
+  *  Run the application:
+    *  Command Line:
+        Navigate to the folder containing compiled .class files and run:
+    *  IDE:
+        Right-click the Main class and select Run As > Java Application.
+5. Play the Game
+Follow the instructions displayed in the console or GUI to play the game.
